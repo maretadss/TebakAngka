@@ -40,7 +40,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        MulaiButton.setText("Mulai");
+        MulaiButton.setText("Start");
         MulaiButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 MulaiButtonActionPerformed(evt);
