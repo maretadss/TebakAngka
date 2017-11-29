@@ -142,7 +142,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
         }
          } catch(Exception e) {
 //           petunjukLabel.setText("Masukkan ANGKA ! Ngerti Angka Nggak ??");
-            JOptionPane.showMessageDialog(rootPane, "Masukkan ANGKA ! Ngerti Angka Nggak ??");
+            JOptionPane.showMessageDialog(rootPane, "Masukkin ANGKA ! Ngerti Angka Nggak sih ??");
             
          
          
